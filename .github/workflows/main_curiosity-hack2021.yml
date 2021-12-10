@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Curiosity-Hack2021'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1158EC7CCFE54DABB898FBBBA5A5B4EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C331FDAF7E0B432C9896214B273091FE }}
